@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/birthday-wisher/static/css/main.1544317f.chunk.css",
-    "main.js": "/birthday-wisher/static/js/main.551c3760.chunk.js",
-    "main.js.map": "/birthday-wisher/static/js/main.551c3760.chunk.js.map",
-    "runtime-main.js": "/birthday-wisher/static/js/runtime-main.49da0469.js",
-    "runtime-main.js.map": "/birthday-wisher/static/js/runtime-main.49da0469.js.map",
-    "static/js/2.9bc39d80.chunk.js": "/birthday-wisher/static/js/2.9bc39d80.chunk.js",
-    "static/js/2.9bc39d80.chunk.js.map": "/birthday-wisher/static/js/2.9bc39d80.chunk.js.map",
-    "index.html": "/birthday-wisher/index.html",
-    "precache-manifest.2a2f1815cf07b36b685bf93f06ac2be8.js": "/birthday-wisher/precache-manifest.2a2f1815cf07b36b685bf93f06ac2be8.js",
-    "service-worker.js": "/birthday-wisher/service-worker.js",
-    "static/css/main.1544317f.chunk.css.map": "/birthday-wisher/static/css/main.1544317f.chunk.css.map",
-    "static/js/2.9bc39d80.chunk.js.LICENSE": "/birthday-wisher/static/js/2.9bc39d80.chunk.js.LICENSE"
+    "main.css": "/Mark-happy-birthday/static/css/main.1544317f.chunk.css",
+    "main.js": "/Mark-happy-birthday/static/js/main.9f8cf534.chunk.js",
+    "main.js.map": "/Mark-happy-birthday/static/js/main.9f8cf534.chunk.js.map",
+    "runtime-main.js": "/Mark-happy-birthday/static/js/runtime-main.5998e62d.js",
+    "runtime-main.js.map": "/Mark-happy-birthday/static/js/runtime-main.5998e62d.js.map",
+    "static/js/2.ffcd499e.chunk.js": "/Mark-happy-birthday/static/js/2.ffcd499e.chunk.js",
+    "static/js/2.ffcd499e.chunk.js.map": "/Mark-happy-birthday/static/js/2.ffcd499e.chunk.js.map",
+    "index.html": "/Mark-happy-birthday/index.html",
+    "precache-manifest.e3674c39b2e2d5d80e571c3f88c0aabe.js": "/Mark-happy-birthday/precache-manifest.e3674c39b2e2d5d80e571c3f88c0aabe.js",
+    "service-worker.js": "/Mark-happy-birthday/service-worker.js",
+    "static/css/main.1544317f.chunk.css.map": "/Mark-happy-birthday/static/css/main.1544317f.chunk.css.map",
+    "static/js/2.ffcd499e.chunk.js.LICENSE": "/Mark-happy-birthday/static/js/2.ffcd499e.chunk.js.LICENSE",
+    "static/media/mark.jpg": "/Mark-happy-birthday/static/media/mark.36276bce.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.49da0469.js",
-    "static/js/2.9bc39d80.chunk.js",
+    "static/js/runtime-main.5998e62d.js",
+    "static/js/2.ffcd499e.chunk.js",
     "static/css/main.1544317f.chunk.css",
-    "static/js/main.551c3760.chunk.js"
+    "static/js/main.9f8cf534.chunk.js"
   ]
 }
