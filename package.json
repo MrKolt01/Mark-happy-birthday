@@ -2,12 +2,13 @@
   "name": "birthday-wisher",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://someshkar.github.io/birthday-wisher",
+  "homepage": "https://mrkolt01.github.io/Mark-happy-birthday",
   "dependencies": {
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
     "react-confetti": "^2.3.0",
     "react-dom": "^16.6.3",
+    "react-particles-js": "^3.3.0",
     "react-scripts": "^3.3.0",
     "react-sizeme": "^2.5.2",
     "styled-components": "^4.1.2"

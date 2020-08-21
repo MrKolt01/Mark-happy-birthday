@@ -39,6 +39,7 @@ class BirthdayMessage extends React.Component {
   render() {
     return (
       <Container>
+        <img width={250} src={require('../mark.jpg')}/>
         <Message style={{ color: this.props.birthdayData.textColor }}>
           Happy Birthday, {this.props.birthdayData.wishee}!
         </Message>
