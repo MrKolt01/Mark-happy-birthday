@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20d2af4390393c953c7d5bd4981708b7",
+    "revision": "48a33e7f1cc47c4399beddc0056942cf",
     "url": "/Mark-happy-birthday/index.html"
   },
   {
-    "revision": "b467a29801949b2379c1",
+    "revision": "e99c85fb5ba827f068c1",
     "url": "/Mark-happy-birthday/static/css/main.1544317f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mark-happy-birthday/static/js/2.ffcd499e.chunk.js.LICENSE"
   },
   {
-    "revision": "b467a29801949b2379c1",
-    "url": "/Mark-happy-birthday/static/js/main.9f8cf534.chunk.js"
+    "revision": "e99c85fb5ba827f068c1",
+    "url": "/Mark-happy-birthday/static/js/main.fdae1235.chunk.js"
   },
   {
     "revision": "b846077bfafc79bd0da9",
